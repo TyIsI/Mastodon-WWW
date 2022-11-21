@@ -4,12 +4,12 @@ Who's where on Mastodon?
 PRs are welcome
 
 ## Random
-- [Neil Gaiman](https://universeodon.com/@neilhimself@mastodon.social)
-- [George Takei](https://universeodon.com/@georgetakei)
+- [Neil Gaiman](@neilhimself@mastodon.social)
+- [George Takei](@georgetakei@universeodon.com)
 
 ## Science
-- [Diego Bassani, PhD](https://mstdn.science/@dgbassani)
-- [Prof Brian Cox](https://universeodon.com/@profbriancox)
+- [Diego Bassani, PhD](@dgbassani@mstdn.science)
+- [Prof Brian Cox](@profbriancox@universeodon.com)
 
 ## Channels
-- [Not Just Bikes](https://social.notjustbikes.com/@notjustbikes)
+- [Not Just Bikes](@notjustbikes@notjustbikes.com)
